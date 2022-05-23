@@ -32,15 +32,17 @@ h1{
     display: flex;
     justify-content:center;
     overflow: hidden;
+    flex-wrap: wrap;
+    margin-right: 10%;
     
 }
 
-.main_dos{
+/* .main_dos{
     display: flex;
     justify-content:center;
     border-bottom: 1px solid gray;
     padding: 10px;
-}
+} */
 
 
 .footer{
